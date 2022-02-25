@@ -32,11 +32,15 @@
 
 ## Installation
 
-Download the Zip File or Clone the Repository
+Download the Zip File or Clone the Repository and install Requirements
 
 ```sh
-git clone <github-link>
+git clone https://github.com/rachitchandak/discordbot
+cd discordbot
+pip3 install -r requirements.txt 
 ```
+
+
 
 Get yourself an Application Token, Open `main.py` file and add your token in the variable named TOKEN. Upload these files on a server and run the main file.
 
